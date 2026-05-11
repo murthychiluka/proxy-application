@@ -14,7 +14,7 @@ HTML_PAGE = """
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Frontend Flask Dashboard</title>
+    <title>Frontend Flask Dashboard veera</title>
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
@@ -221,14 +221,14 @@ HTML_PAGE = """
 
     <div class="card">
 
-        <h1>🚀 Frontend Flask EC2</h1>
+        <h1>🚀 Frontend Flask EC2 veera</h1>
 
         <p>
             Flask Frontend Connected to Flask Backend
         </p>
 
         <div class="status">
-            ● Internal Private IP Communication
+            ● Internal Private IP Communication using flask
         </div>
 
         <button onclick="getData()">
