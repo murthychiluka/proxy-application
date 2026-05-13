@@ -259,7 +259,7 @@ async function getData() {
     try {
 
         const response = await fetch(
-            "http://54.166.148.215:3000/api/message"
+            "http://internal-InternalALB-880628395.us-east-1.elb.amazonaws.com:3000/api/message"
         );
 
         const data = await response.json();
